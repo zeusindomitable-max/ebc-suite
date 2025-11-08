@@ -1,0 +1,5 @@
+# generate_loss_curve.py
+import matplotlib.pyplot as plt
+import numpy as np
+plt.plot(np.random.randn(100).cumsum())
+plt.savefig("docs/figures/loss_curve.png")
