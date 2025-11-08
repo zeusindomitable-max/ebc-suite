@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-≥3.8-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+
 </div>
 
 ---
@@ -60,7 +61,7 @@ for step, batch in enumerate(dataloader):
   
   url = {https://github.com/ebc-clip/ebc-suite},
   
-  doi = {10.5281/zenodo.1234567}
+  doi = {10.5281/zenodo.17560614}
 }
 
 <div align="center">
